@@ -1,0 +1,8 @@
+{
+  "name": "Think Tank Ventures",
+  "description": "A professional, data-driven website for Think Tank Ventures featuring a modern design and integrated publication portal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
